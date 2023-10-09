@@ -2,7 +2,11 @@ body{
     font-family: 'Inconsolata', monospace;
     font-size: 1.1rem !important;
     color:white;
+    background-color: rgb(54, 54, 54);
 }
 p{
     font-family: 'Crimson Text', serif; font-size: 1.3rem
+}
+a{
+    color: white;
 }
